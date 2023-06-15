@@ -4,7 +4,6 @@ seaborn
 urlextract
 wordcloud
 matplotlib.pyplot
-matplotlib
 emoji
 string
 Counter
