@@ -3,9 +3,10 @@ pandas
 seaborn
 urlextract
 wordcloud
-matplotlib
 matplotlib.pyplot
+matplotlib
 emoji
 string
 Counter
+collections
 re
